@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.as{
+    width: 200px;
+    height: 200px;
+    margin: 10px auto;
+    display: block;
+
+}
+body{
+    background-image: url(aa.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    /* linear,radial */
+    /* background-image: radial-gradient(skyblue ,blue, pink); */
+
+
+}
+
+
+
+
+/* /* .one{
+    /* background-color: rgb(180, 78, 78);
+    width: 200px;
+    height: 200px;
+    float:left ;
+    /* position: relative;
+    z-index: 3; */ 
+
+/* .two>h1{
+    margin: 10px auto;
+    background-color: aqua; */
+
+    /* background-color: yellow;
+    width: 200px;
+    height: 200px;
+    display: inline-block; */
+  
+    /* position: sticky;
+    top: 40px;
+    left: 20px;
+    z-index: 1; */
+/* .th{
+    background-color: rgb(133, 133, 116);
+    width: 200px;
+    height: 200px; */
+
+
